@@ -7,5 +7,5 @@
 - 💁‍♀️ See my <a href="https://acs.bg" target="_blank">portfolio</a>
 - Pronouns: he/him
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameantonjeliazkov26&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonjeliazkov26&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonjeliazkov26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
